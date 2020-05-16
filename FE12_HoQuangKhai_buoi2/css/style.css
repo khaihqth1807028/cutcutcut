@@ -1,0 +1,36 @@
+.container{
+    margin: 20%;
+}
+.body{
+    border: #32acdd 5px solid;
+    width: 750px;
+    height: 234px;
+    border-radius: 5px;
+}
+.content{
+    width: 375px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.image-small{
+
+    margin: 2px 5px;
+
+float: left;
+    margin: 2px 5px;
+    background: #fff;
+
+    border: 1px solid #eee;
+
+    margin-bottom: 0px;
+
+}
+.text-small{
+    font-size: 12px;
+    font-family: Arial;
+    padding: 4px;
+}
+.small{
+    display: flow-root;
+}
